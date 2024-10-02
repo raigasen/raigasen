@@ -19,6 +19,7 @@ Here are some ideas to get you started:
 
 <p>
     <a href="https://www.linkedin.com/in/neil-kadam-77092b15b/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neil-kadam" height="30" width="40" /></a>
+     <a href="https://mavenanalytics.io/profile/Neil-Kadam/208297479" target="_blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="Portfolio" height="40" width="50" /></a>
 </p>
 
 ## 🔭 I'm currently working on
